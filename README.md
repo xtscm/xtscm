@@ -1,7 +1,6 @@
-# Hello, I'm xtscm!
+# xtscm
 
-## About Me
+Employed @ Zurich Insurance
+Studying Data Science and AI @ DHBW Mannheim
+Contact: anis.tajioui@inframs.de
 
-🎓 I'm currently a Co-op Student at Zurich Insurance in Frankfurt.
-🏫 I study at DHBW Mannheim where I'm honing my skills in software development.
-💻 I'm proficient in Python, Java, and JavaScript.
